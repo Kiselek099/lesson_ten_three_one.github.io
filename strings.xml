@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project_num_tenfour</string>
+    <string name="change_color">Меняем цвет текста</string>
+    <string name="change_size">Меняем размер текста</string>
+    <string name="run">Запуск</string>
+    <string name="edit_text">Введите текст</string>
+    <string name="delete">Удалить данные</string>
+    <string name="save">Сохранить данные</string>
+</resources>
